@@ -1,0 +1,1 @@
+{"version":3,"file":"css/app.css","sources":["webpack:////./src/client/assets/styles/styles.scss"],"sourcesContent":["body{background:#f1f1f1;padding-top:30px}.form-control{height:640px !important}\n\n\n\n// WEBPACK FOOTER //\n// /./src/client/assets/styles/styles.scss"],"mappings":"AAAA;;;;","sourceRoot":""}
